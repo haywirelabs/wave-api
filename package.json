@@ -1,0 +1,19 @@
+{
+  "name": "wave-api",
+  "version": "0.0.1",
+  "description": "Application to perform Accessibility testing using the WAVE API",
+  "main": "bin/wave-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/haywirelabs/wave-api.git"
+  },
+  "author": "Joe Osborne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haywirelabs/wave-api/issues"
+  },
+  "homepage": "https://github.com/haywirelabs/wave-api"
+}
