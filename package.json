@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/haywirelabs/wave-api/issues"
   },
-  "homepage": "https://github.com/haywirelabs/wave-api"
+  "homepage": "https://github.com/haywirelabs/wave-api",
+  "dependencies": {
+    "xmlbuilder": "2.2.1",
+    "xml2js": "0.4.2",
+    "graceful-fs": "2.0.3",
+    "argparse": "0.1.15"
+  }
 }
